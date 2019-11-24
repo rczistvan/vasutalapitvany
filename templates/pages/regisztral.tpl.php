@@ -8,7 +8,7 @@
 <?php include("logical/regisztal.php"); ?>
 <?php if(isset($uzenet)) { ?>
     <h1><?= $uzenet ?></h1>
-    <a href="../../index.php?oldal=belepes">
+    <a href="?oldal=belepes">
     <?php if($ujra) { ?>
         Próbálja újra!
     <?php } else { ?>

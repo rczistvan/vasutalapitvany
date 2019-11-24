@@ -9,4 +9,4 @@ if (isset($uzenet)) {
 Feladó: <?=$_POST['nev'] ?><br>
 Üzenet: <?=$_POST['uzenet'] ?>
 <br><br>
-<a href="index.php?oldal=kapcsolat">Vissza a kapcsolatokra!</a>
+<a href="?oldal=kapcsolat">Vissza a kapcsolatokra!</a>

@@ -21,7 +21,7 @@
         if (id >= images.length){
             id = 0;
         }
-        element.src = "/gallery/" + images[id];
+        element.src = "gallery/" + images[id];
     }
     function prev(){
         let element = document.getElementById("gallery");
@@ -29,12 +29,12 @@
         if (id < 0){
             id = images.length - 1;
         }
-        element.src = "/gallery/" + images[id];
+        element.src = "gallery/" + images[id];
     }
 </script>
 
 <a href="javascript:prev()">Előző</a>&nbsp;<a href="javascript:next()">Következő</a><br><br>
-<img id="gallery" width="600px" src="/gallery/kep1.jpg" /><br><br><br>
+<img id="gallery" width="600px" src="gallery/kep1.jpg" /><br><br><br>
 
 
 <form action = "?oldal=feltolt" method="post" enctype="multipart/form-data">

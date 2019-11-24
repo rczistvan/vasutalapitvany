@@ -13,7 +13,7 @@ Csendom Lajosnak – mint az akkori kecskeméti vontatási főnöknek – nagy s
 Szabó Gyula – a szegedi Vasútigazgatóság vezetőjeként – 1982-ben a Pest-Zimonyi vasútvonal 100 éves jubileumi ünnepségének fő szervezője volt.
 A Közművelődési Bizottság titkáraként kóstolt bele a megemlékezések és a méltó ünnepségek megszervezésébe.
 </pre><br>
-<img src="../../images/alapitok.jpg"/><br><br>
+<img src="images/alapitok.jpg"/><br><br>
 Ilyen előzmények után jutottunk arra az elhatározásra, hogy az alapítvány létrehozásával szervezeti
 és jogi keretet teremtünk annak a munkának, melyeket évtizedek óta végeztünk. Az alapító okiratot 1992 decemberében nyújtottuk be.
 Alapítványtevő a szegedi székhelyű Record Trade Kft. volt, melynek megszűnése után a Bíróság vette át a szerepét.

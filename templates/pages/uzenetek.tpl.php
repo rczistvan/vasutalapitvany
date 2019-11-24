@@ -23,4 +23,4 @@ if (isset($errormessage)) {
     echo $errormessage;
 }
 ?>
-<a href="index.php?oldal=kapcsolat">Vissza a kapcsolatokra!</a>
+<a href="?oldal=kapcsolat">Vissza a kapcsolatokra!</a>
