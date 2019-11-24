@@ -58,6 +58,9 @@ nav ul a {
     color: #00003d;
     font-size: 24px;
 }
+#eredeti_oldal {
+    float: right;
+}
 
 div#content {
     display: table-cell;

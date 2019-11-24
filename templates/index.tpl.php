@@ -19,7 +19,7 @@ if(file_exists('./logicals/'.$keres['fajl'].'.php')) { include("./logicals/{$ker
         <h1><?= $fejlec['cim'] ?></h1>
         <?php if (isset($fejlec['motto'])) { ?><h2><?= $fejlec['motto'] ?></h2><?php } ?>
         <?php if(isset($_SESSION['login'])) { ?>Bejlentkezve: <strong><?= $_SESSION['csn']." ".$_SESSION['un']." (".$_SESSION['login'].")" ?></strong><?php } ?><br>
-        <strong>Eredeti oldal: </strong><a href="http://vasuttortenetia.hu/" target="_blank">http://vasuttortenetia.hu/</a><br><br>
+        <span id="eredeti_oldal"><strong>Eredeti oldal: </strong><a href="http://vasuttortenetia.hu/" target="_blank">http://vasuttortenetia.hu/</a></span>
         <form method="get" action="http://www.google.com/search" target="_blank">
             <input type="text" name="q" size="21" maxlength="255", value="" placeholder="Google keresés az oldalon">
             <input type="submit" name="btnG" value="Keresés">
